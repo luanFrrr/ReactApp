@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Luan",
+      "email": "luanrosas@yahoo.com.br",
+      "senha": "cocoverde"
+    },
+    { "id": 2, "name": "José", "email": "jose@yahoo.com.br", "senha": "123456" }
+  ]
+}
